@@ -20,4 +20,6 @@ Getting started is a breeze:
 1. **Clone the repository**: Fire up your terminal and run:
 
    ```bash
-   git clone https://github.com/4nskarts/writeups.git
+   git clone https://github.com/4nskarts/write-ups.git
+
+Please note that when I write `author: 4nskarts`, it only means I was the one who wrote the writeup, not the actual challenge.
